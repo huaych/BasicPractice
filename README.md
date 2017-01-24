@@ -1,2 +1,2 @@
 # BasicPractice
-Some Basic Programming Practice
+# Practice Code of Merge Sort
